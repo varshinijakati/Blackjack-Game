@@ -14,7 +14,7 @@ Welcome to the Blackjack Game repository! This project is a web-based implementa
 ## Installation
  - Clone or download the repository:
       ```bash
-   git clone https://github.com/your-username/blackjack-game.git
+   git clone https://github.com/varshinijakati/blackjack-game.git
    ```
  - Navigate to the project directory:
    ```bash
