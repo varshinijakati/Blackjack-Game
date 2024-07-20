@@ -20,10 +20,11 @@ Welcome to the Blackjack Game repository! This project is a web-based implementa
    ```bash
    cd blackjack-game
    ```
-- Open the `index.html` file in your preferred web browser:
-  ```bash
-   open index.html
-   ```
+- Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
